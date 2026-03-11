@@ -76,7 +76,7 @@ u(T) = \frac{1}{N^2}\,\mathbb{E}[H].
 The heat capacity is estimated from energy fluctuations as
 
 ```math
-c(T) = \frac{\beta^2}{N^2}\,\operatorname{Var}(H).
+c(T) = \frac{\beta^2}{N^2}\,Var(H).
 ```
 
 These are exactly the quantities plotted in the temperature-scan experiment.
